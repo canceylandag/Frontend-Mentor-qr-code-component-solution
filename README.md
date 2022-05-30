@@ -20,11 +20,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](https://github.com/canceylandag/Frontend-Mentor-qr-code-component-solution/blob/main/Screenshot_Desktop.png)
-![](C:\Users\cance\Desktop\Web DWvwlopmwnt\qr-code-component-main/Screenshot_Mobile.png)
+![](https://github.com/canceylandag/Frontend-Mentor-qr-code-component-solution/blob/main/Screenshot_Mobile.png)
 
 ### Links
 
-- Solution URL: [Github]([https://github.com/canceylandag/Frontend-Mentor-qr-code-component-solution](https://github.com/canceylandag/Frontend-Mentor-qr-code-component-solution/blob/main/Screenshot_Desktop.png))
+- Solution URL: [Github](https://github.com/canceylandag/Frontend-Mentor-qr-code-component-solution)
 - Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://github.com/canceylandag/Frontend-Mentor-qr-code-component-solution/blob/main/Screenshot_Mobile.png))
 
 ## My process
